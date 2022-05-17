@@ -1,0 +1,8 @@
+$ git init
+$ ls
+$ git add 'index.html' 'style.css'
+$ git commit -m 'add them'
+$ git remote add origin https://github.com/rohitgavhane275/practical.git
+$ git push origin master
+
+
